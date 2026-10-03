@@ -1,0 +1,6 @@
+timestamp,customer,ticket_text,predicted_category,category_confidence,predicted_priority,priority_confidence,recommended_queue,status
+2026-10-03 20:30:10,Rahul,My card was charged twice for the same order. Please fix this immediately.,Payment,42.65,High,69.16,Billing & Payments,Pending Review
+2026-10-03 20:41:14, Rahul ,My package was marked delivered but I never received it. Please help immediately.,Delivery,42.36,High,68.04,Delivery Support,Pending Review
+2026-10-03 20:42:26,Amit,My card was charged twice for the same order. Please fix this immediately.,Payment,42.65,High,69.16,Billing & Payments,Pending Review
+2026-10-03 20:43:41, Priya,The verification link expired and I need a new one.,Account,48.89,Medium,61.55,Account Support,Pending Review
+2026-10-03 20:44:54,Karan,The product has a small cosmetic scratch but works normally.,Product Issue,53.35,Low,66.4,Product Support,Pending Review

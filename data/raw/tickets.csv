@@ -1,0 +1,181 @@
+ticket_id,customer,ticket_text,category,priority
+1,Customer1,My order has not arrived and I need an update immediately.,Delivery,High
+2,Customer2,The package was marked delivered but I never received it.,Delivery,High
+3,Customer3,My shipment is out for delivery but the address is incorrect.,Delivery,High
+4,Customer4,I need the package urgently before tomorrow's event.,Delivery,High
+5,Customer5,The courier lost my package and I need a replacement.,Delivery,High
+6,Customer6,My delivery has been delayed for three days.,Delivery,Medium
+7,Customer7,The tracking page has not changed since yesterday.,Delivery,Medium
+8,Customer8,The delivery agent could not reach me. Please arrange another attempt.,Delivery,Medium
+9,Customer9,My shipment is delayed and I would like an update.,Delivery,Medium
+10,Customer10,Can you update the delivery address before shipment?,Delivery,Medium
+11,Customer11,Can you tell me the expected delivery date?,Delivery,Low
+12,Customer12,I want to know when my order will reach me.,Delivery,Low
+13,Customer13,Please explain the estimated delivery time.,Delivery,Low
+14,Customer14,Can I check the normal delivery timeframe?,Delivery,Low
+15,Customer15,I would like an update on the standard shipping time.,Delivery,Low
+16,Customer16,My order has not arrived and I need an update immediately.,Delivery,High
+17,Customer17,The package was marked delivered but I never received it.,Delivery,High
+18,Customer18,My shipment is out for delivery but the address is incorrect.,Delivery,High
+19,Customer19,I need the package urgently before tomorrow's event.,Delivery,High
+20,Customer20,The courier lost my package and I need a replacement.,Delivery,High
+21,Customer21,My delivery has been delayed for three days.,Delivery,Medium
+22,Customer22,The tracking page has not changed since yesterday.,Delivery,Medium
+23,Customer23,The delivery agent could not reach me. Please arrange another attempt.,Delivery,Medium
+24,Customer24,My shipment is delayed and I would like an update.,Delivery,Medium
+25,Customer25,Can you update the delivery address before shipment?,Delivery,Medium
+26,Customer26,Can you tell me the expected delivery date?,Delivery,Low
+27,Customer27,I want to know when my order will reach me.,Delivery,Low
+28,Customer28,Please explain the estimated delivery time.,Delivery,Low
+29,Customer29,Can I check the normal delivery timeframe?,Delivery,Low
+30,Customer30,I would like an update on the standard shipping time.,Delivery,Low
+31,Customer31,I was charged twice for the same purchase. Please fix this immediately.,Payment,High
+32,Customer32,My card was charged for an order I did not place.,Payment,High
+33,Customer33,Money was deducted but my order was not created.,Payment,High
+34,Customer34,The refund was approved but the money has not appeared.,Payment,High
+35,Customer35,My payment failed but the amount was still deducted.,Payment,High
+36,Customer36,My payment is still pending after several hours.,Payment,Medium
+37,Customer37,The total amount on my bill is different from checkout.,Payment,Medium
+38,Customer38,An unexpected payment fee was added to my order.,Payment,Medium
+39,Customer39,My refund is taking longer than expected.,Payment,Medium
+40,Customer40,The coupon was not reflected in the final payment.,Payment,Medium
+41,Customer41,Can you send me the invoice for my purchase?,Payment,Low
+42,Customer42,Can you explain the payment charge shown on my statement?,Payment,Low
+43,Customer43,I need a copy of my payment receipt.,Payment,Low
+44,Customer44,Where can I view my previous payment details?,Payment,Low
+45,Customer45,Can you tell me how payment invoices work?,Payment,Low
+46,Customer46,I was charged twice for the same purchase. Please fix this immediately.,Payment,High
+47,Customer47,My card was charged for an order I did not place.,Payment,High
+48,Customer48,Money was deducted but my order was not created.,Payment,High
+49,Customer49,The refund was approved but the money has not appeared.,Payment,High
+50,Customer50,My payment failed but the amount was still deducted.,Payment,High
+51,Customer51,My payment is still pending after several hours.,Payment,Medium
+52,Customer52,The total amount on my bill is different from checkout.,Payment,Medium
+53,Customer53,An unexpected payment fee was added to my order.,Payment,Medium
+54,Customer54,My refund is taking longer than expected.,Payment,Medium
+55,Customer55,The coupon was not reflected in the final payment.,Payment,Medium
+56,Customer56,Can you send me the invoice for my purchase?,Payment,Low
+57,Customer57,Can you explain the payment charge shown on my statement?,Payment,Low
+58,Customer58,I need a copy of my payment receipt.,Payment,Low
+59,Customer59,Where can I view my previous payment details?,Payment,Low
+60,Customer60,Can you tell me how payment invoices work?,Payment,Low
+61,Customer61,I cannot log in after enabling two-step verification.,Account,High
+62,Customer62,My account is locked and I need access immediately.,Account,High
+63,Customer63,Someone changed my account password without permission.,Account,High
+64,Customer64,I cannot access my account even with the correct password.,Account,High
+65,Customer65,My account verification is failing and I cannot access the service.,Account,High
+66,Customer66,The verification email has not arrived yet.,Account,Medium
+67,Customer67,The verification link expired and I need a new one.,Account,Medium
+68,Customer68,The app keeps signing me out.,Account,Medium
+69,Customer69,I need help resetting my account password.,Account,Medium
+70,Customer70,My login problem started after a security update.,Account,Medium
+71,Customer71,How can I update my name and profile details?,Account,Low
+72,Customer72,How can I change my phone number?,Account,Low
+73,Customer73,I want to update my profile information.,Account,Low
+74,Customer74,Where can I edit my account preferences?,Account,Low
+75,Customer75,How do I change my account settings?,Account,Low
+76,Customer76,I cannot log in after enabling two-step verification.,Account,High
+77,Customer77,My account is locked and I need access immediately.,Account,High
+78,Customer78,Someone changed my account password without permission.,Account,High
+79,Customer79,I cannot access my account even with the correct password.,Account,High
+80,Customer80,My account verification is failing and I cannot access the service.,Account,High
+81,Customer81,The verification email has not arrived yet.,Account,Medium
+82,Customer82,The verification link expired and I need a new one.,Account,Medium
+83,Customer83,The app keeps signing me out.,Account,Medium
+84,Customer84,I need help resetting my account password.,Account,Medium
+85,Customer85,My login problem started after a security update.,Account,Medium
+86,Customer86,How can I update my name and profile details?,Account,Low
+87,Customer87,How can I change my phone number?,Account,Low
+88,Customer88,I want to update my profile information.,Account,Low
+89,Customer89,Where can I edit my account preferences?,Account,Low
+90,Customer90,How do I change my account settings?,Account,Low
+91,Customer91,I returned the product but the refund has not arrived.,Return,High
+92,Customer92,My return pickup was missed twice and I need help urgently.,Return,High
+93,Customer93,The returned package was received but the return status is stuck.,Return,High
+94,Customer94,I need a replacement because the returned item was defective.,Return,High
+95,Customer95,My return request is blocked and the deadline is approaching.,Return,High
+96,Customer96,I received the wrong size and want to return it.,Return,Medium
+97,Customer97,The return pickup has not been scheduled yet.,Return,Medium
+98,Customer98,The return page is showing an error.,Return,Medium
+99,Customer99,I need to know how to return an item.,Return,Medium
+100,Customer100,Can you arrange another return pickup?,Return,Medium
+101,Customer101,Can I return an unused product?,Return,Low
+102,Customer102,What is the return window for this product?,Return,Low
+103,Customer103,How can I cancel my return pickup?,Return,Low
+104,Customer104,I changed my mind and want to know the return procedure.,Return,Low
+105,Customer105,Where can I read the standard return policy?,Return,Low
+106,Customer106,I returned the product but the refund has not arrived.,Return,High
+107,Customer107,My return pickup was missed twice and I need help urgently.,Return,High
+108,Customer108,The returned package was received but the return status is stuck.,Return,High
+109,Customer109,I need a replacement because the returned item was defective.,Return,High
+110,Customer110,My return request is blocked and the deadline is approaching.,Return,High
+111,Customer111,I received the wrong size and want to return it.,Return,Medium
+112,Customer112,The return pickup has not been scheduled yet.,Return,Medium
+113,Customer113,The return page is showing an error.,Return,Medium
+114,Customer114,I need to know how to return an item.,Return,Medium
+115,Customer115,Can you arrange another return pickup?,Return,Medium
+116,Customer116,Can I return an unused product?,Return,Low
+117,Customer117,What is the return window for this product?,Return,Low
+118,Customer118,How can I cancel my return pickup?,Return,Low
+119,Customer119,I changed my mind and want to know the return procedure.,Return,Low
+120,Customer120,Where can I read the standard return policy?,Return,Low
+121,Customer121,My headphones do not turn on even after charging.,Product Issue,High
+122,Customer122,My tablet screen is flickering continuously and I need a replacement.,Product Issue,High
+123,Customer123,My blender stops working after a few seconds.,Product Issue,High
+124,Customer124,My laptop is overheating and shutting down.,Product Issue,High
+125,Customer125,The product is completely unusable and I need urgent assistance.,Product Issue,High
+126,Customer126,The keyboard button is sticking and needs attention.,Product Issue,Medium
+127,Customer127,The charger is not working properly.,Product Issue,Medium
+128,Customer128,The product material does not match its description.,Product Issue,Medium
+129,Customer129,A required assembly screw is missing.,Product Issue,Medium
+130,Customer130,The device is showing an error during normal use.,Product Issue,Medium
+131,Customer131,The product has a small cosmetic scratch but works normally.,Product Issue,Low
+132,Customer132,The user manual was missing from the package.,Product Issue,Low
+133,Customer133,The product packaging has a minor cosmetic issue.,Product Issue,Low
+134,Customer134,Can you provide the product manual?,Product Issue,Low
+135,Customer135,I noticed a minor scratch on the product.,Product Issue,Low
+136,Customer136,My headphones do not turn on even after charging.,Product Issue,High
+137,Customer137,My tablet screen is flickering continuously and I need a replacement.,Product Issue,High
+138,Customer138,My blender stops working after a few seconds.,Product Issue,High
+139,Customer139,My laptop is overheating and shutting down.,Product Issue,High
+140,Customer140,The product is completely unusable and I need urgent assistance.,Product Issue,High
+141,Customer141,The keyboard button is sticking and needs attention.,Product Issue,Medium
+142,Customer142,The charger is not working properly.,Product Issue,Medium
+143,Customer143,The product material does not match its description.,Product Issue,Medium
+144,Customer144,A required assembly screw is missing.,Product Issue,Medium
+145,Customer145,The device is showing an error during normal use.,Product Issue,Medium
+146,Customer146,The product has a small cosmetic scratch but works normally.,Product Issue,Low
+147,Customer147,The user manual was missing from the package.,Product Issue,Low
+148,Customer148,The product packaging has a minor cosmetic issue.,Product Issue,Low
+149,Customer149,Can you provide the product manual?,Product Issue,Low
+150,Customer150,I noticed a minor scratch on the product.,Product Issue,Low
+151,Customer151,Please cancel my order immediately because I selected the wrong item.,Order Cancellation,High
+152,Customer152,Please stop the shipment before it is dispatched.,Order Cancellation,High
+153,Customer153,I placed a duplicate order and need one cancelled immediately.,Order Cancellation,High
+154,Customer154,The delivery address is wrong and I need to cancel the order.,Order Cancellation,High
+155,Customer155,Please cancel the order before it reaches the wrong address.,Order Cancellation,High
+156,Customer156,Please cancel the order I placed this morning.,Order Cancellation,Medium
+157,Customer157,Can you help me cancel an order that has not shipped?,Order Cancellation,Medium
+158,Customer158,I need to cancel because the delivery date is too late.,Order Cancellation,Medium
+159,Customer159,How do I cancel an unprocessed order?,Order Cancellation,Medium
+160,Customer160,I want to cancel a recent order.,Order Cancellation,Medium
+161,Customer161,I no longer want the order. How can I cancel it?,Order Cancellation,Low
+162,Customer162,Can I cancel an order that has not been processed?,Order Cancellation,Low
+163,Customer163,Where can I find the order cancellation option?,Order Cancellation,Low
+164,Customer164,What is the normal order cancellation procedure?,Order Cancellation,Low
+165,Customer165,Can you explain the cancellation policy?,Order Cancellation,Low
+166,Customer166,Please cancel my order immediately because I selected the wrong item.,Order Cancellation,High
+167,Customer167,Please stop the shipment before it is dispatched.,Order Cancellation,High
+168,Customer168,I placed a duplicate order and need one cancelled immediately.,Order Cancellation,High
+169,Customer169,The delivery address is wrong and I need to cancel the order.,Order Cancellation,High
+170,Customer170,Please cancel the order before it reaches the wrong address.,Order Cancellation,High
+171,Customer171,Please cancel the order I placed this morning.,Order Cancellation,Medium
+172,Customer172,Can you help me cancel an order that has not shipped?,Order Cancellation,Medium
+173,Customer173,I need to cancel because the delivery date is too late.,Order Cancellation,Medium
+174,Customer174,How do I cancel an unprocessed order?,Order Cancellation,Medium
+175,Customer175,I want to cancel a recent order.,Order Cancellation,Medium
+176,Customer176,I no longer want the order. How can I cancel it?,Order Cancellation,Low
+177,Customer177,Can I cancel an order that has not been processed?,Order Cancellation,Low
+178,Customer178,Where can I find the order cancellation option?,Order Cancellation,Low
+179,Customer179,What is the normal order cancellation procedure?,Order Cancellation,Low
+180,Customer180,Can you explain the cancellation policy?,Order Cancellation,Low
