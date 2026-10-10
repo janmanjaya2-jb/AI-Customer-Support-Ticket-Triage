@@ -387,7 +387,7 @@ AI-Customer-Support-Ticket-Triage/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/janmanjaya2-jb/AI-Customer-Support-Ticket-Triage.git
 cd AI-Customer-Support-Ticket-Triage
 ```
 
